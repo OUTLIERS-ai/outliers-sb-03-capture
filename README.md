@@ -1,26 +1,25 @@
-# Outliers Second Brain - Layer 3 - Capture
+# Part 3 of 4 - Capture
 
-Layers 1 and 2 gave you a sound place to put things and a way to know it is still sound.
-Everything in it still arrives because you sat down and typed it.
+## The problem
 
-That is where these systems die. Not because people stop believing in them, but because keeping
-one fed by hand is admin, and admin loses to every other thing in a working day.
+It works. You have seen it work. And you have not added anything to it for a fortnight.
 
-## Install it
+You meant to write up that client call and never did. The sharpest thing you said all month was
+said out loud and exists nowhere now. You have a folder of reports you have never opened twice.
+Adding to it has started to feel like homework.
 
-    python install.py
+## Why it happens
 
-It finds your second brain, asks three questions, and installs into it. If Layer 2 is not there
-it refuses - this layer fills your system faster than you can read it, which is exactly why the
-check has to be underneath it first.
+There is only one way in, and it is you, typing. That is admin - and admin is what every one of
+these systems eventually loses to. Nobody abandons a second brain because they stopped believing
+in it.
 
-## What it needs beneath it
+The material that never gets in is the material worth the most. Almost everything valuable in a
+service business is said, not written, and it is gone in a fortnight.
 
-Layers 1 and 2. Python 3.8 or newer.
+## What this does about it
 
-## What you end up with
-
-Four ways in, matching the four ways material actually reaches a business:
+Four ways in, matching the four ways material actually reaches a business.
 
 | Channel | What goes in |
 |---|---|
@@ -29,27 +28,33 @@ Four ways in, matching the four ways material actually reaches a business:
 | The web | Articles, competitor pages, research |
 | Your own head | Decisions and their reasoning, what you charge, what you refuse |
 
-The fourth is the one nobody else can supply, and the one that gets skipped. It is also what
-makes the answers sound like you rather than like the internet.
+Plus one command that takes anything at all and works out where it goes, and five assistants with
+one job each.
 
-Plus `/capture`, which takes anything and works out where it goes, and five assistants with one
-job each.
+    python install.py
 
-## The instruction that matters
+It needs Parts 1 and 2. This fills your system faster than you can read it, which is exactly why
+the check has to be underneath it first.
 
-Put more in than feels sensible, and tidy none of it.
+## Why this way and not another
 
-Organising is the reflex that kills these systems: it feels like progress and produces nothing.
-You cannot find a connection in material you have not loaded.
+- Volume beats tidiness by a long way. A messy system with four hundred real documents beats a
+  beautiful one with twelve. You cannot find a connection in material you never loaded.
+- Organising is the trap. It feels like progress and produces nothing.
+- Material is captured on its source terms first and translated second. One pass that does both
+  collapses into a summary of things you already agreed with, and the parts that disagree with you
+  are the only parts capable of changing anything.
+- The fourth channel is the one nobody else can supply. Skip it and you have built a very good
+  library of somebody else thinking.
 
-When a fair amount is in, ask it: *what do you now know about my business that I never told you
-directly?* A thin answer means it needs more material. An answer that surprises you means it has
-crossed from a filing cabinet into a memory.
+## The test
 
-## What this layer leaves unsolved
+Once a fair amount is in, ask it: what do you now know about my business that I never told you
+directly? A thin answer means it needs more material. An answer that surprises you means it has
+crossed from a filing cabinet into something worth having.
 
-Several assistants now run, each able to write into the foundation everything else stands on, and
-one of them will eventually be pointed at something that reaches another human being. Nothing
-sequences them, limits them, or stops one checking its own work and passing it.
+## What it still does not do
 
-That is Layer 4.
+Several assistants can now write into the thing everything else stands on, and one of them will
+eventually be pointed at something that reaches a real person. Nothing decides what runs when,
+limits them, or stops one checking its own work and passing it. That is Part 4.
